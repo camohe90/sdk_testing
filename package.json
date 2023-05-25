@@ -1,0 +1,19 @@
+{
+  "name": "bootcamp_planning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "algosdk": "^2.3.0",
+    "dotenv": "^16.0.3"
+  }
+}
